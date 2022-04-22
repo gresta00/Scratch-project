@@ -1,1 +1,4 @@
-# Scratch-project
+# Scratchのプロジェクト
+Scratchで作ったプロジェクトです
+# 使用方法
+ファイルをダウンロードし、ScratchアプリまたはScratchウェブサイトのエディターで、コンピューターから読み込んでください
